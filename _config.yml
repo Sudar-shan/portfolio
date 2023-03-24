@@ -1,6 +1,14 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Sudarshan
+logo: /assets/img/logo.jpg
+description: <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://in.linkedin.com/in/sudarshan-soundar/">LinkedIn</a> |
+  <a href="https://github.com/Sudar-shan">GitHub</a>
+
+  <br>
+  I'm working as the technical lead for k3 division of byjus. Iam interested
+  in artificial intelligence and machine learning. When Ai can learn stuff on
+  own is when the crazy stuff starts to happen.
+  <br>
+  </p>
 theme: jekyll-theme-minimal
