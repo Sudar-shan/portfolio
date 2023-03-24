@@ -1,4 +1,4 @@
-title: Sudarshan
+title: <p align="center"> Sudarshan </p>
 logo: /assets/img/logo.jpg
 description: <p align="center">
   <a href="assets/pdf/resume.pdf">Resume</a> |
@@ -11,4 +11,5 @@ description: <p align="center">
   own is when the crazy stuff starts to happen.
   <br>
   </p>
+
 theme: jekyll-theme-minimal
